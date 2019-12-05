@@ -11,7 +11,7 @@ _by Jianping Chen_
 ---
 ## Initial Setup
 
-* mkdir file
+* mkdir file...
 * cd file 
 * git init 
 * c9 file
